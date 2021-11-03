@@ -1,0 +1,5 @@
+Sleep(5000)
+Send("C:\Users\QSP\Desktop\resume.docx")
+Sleep(5000)
+Send("{ENTER}")
+Sleep(3000)
